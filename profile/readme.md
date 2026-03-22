@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🏢 IMCS Soft</h1>
+  <h1>🏢 IMCS Tech</h1>
   <p><b>División de Innovación y Desarrollo Tecnológico</b></p>
   <p><i>Construyendo la infraestructura digital del ecosistema corporativo IMCS.</i></p>
 </div>
@@ -8,7 +8,7 @@
 
 ### 🌐 Sobre Nosotros
 
-**IMCS Soft** es el motor tecnológico detrás del grupo empresarial IMCS. Diseñamos, desarrollamos y escalamos soluciones digitales que dan soporte no solo a nuestras plataformas de educación médica en nuestras sedes de Guayaquil, Ambato y Quito, sino a todas las divisiones del grupo: **Salud, Legal, Construcción, Marketing y Ventas corporativas**.
+**IMCS Tech** es el motor tecnológico detrás del grupo empresarial IMCS. Diseñamos, desarrollamos y escalamos soluciones digitales que dan soporte no solo a nuestras plataformas de educación médica en nuestras sedes de Guayaquil, Ambato y Quito, sino a todas las divisiones del grupo: **Salud, Legal, Construcción, Marketing y Ventas corporativas**.
 
 Nuestro enfoque es aplicar código limpio, arquitecturas robustas y diseños centrados en el usuario para optimizar procesos, tanto a nivel interno como para nuestros clientes.
 

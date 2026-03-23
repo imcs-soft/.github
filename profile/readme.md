@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🏢 IMCS Tech</h1>
-  <img src="1774301173955.png" alt="logo_banner>
+  <img src="1774301173955.png">
   <p><b>División de Innovación y Desarrollo Tecnológico</b></p>
   <p><i>Construyendo la infraestructura digital del ecosistema corporativo IMCS.</i></p>
 </div>

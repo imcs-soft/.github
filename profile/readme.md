@@ -42,19 +42,26 @@ La arquitectura y ejecución de nuestros proyectos está liderada por nuestro eq
 
 <table align="center">
   <tr>
-    <td align="center" width="250px">
+    <td align="center" width="220px">
       <a href="https://github.com/justdeviii">
-        <img src="https://github.com/justdeviii.png" width="100px;" alt="Abrahan" style="border-radius:50%"/><br />
+        <img src="https://github.com/justdeviii.png" width="90px;" alt="Abrahan" style="border-radius:50%"/><br />
         <sub><b>Abrahan (justdeviii)</b></sub>
       </a><br />
-      <i>Frontend Lead / Full Stack Developer</i>
+      <i>Frontend Lead / UX Specialist</i>
     </td>
-    <td align="center" width="250px">
+    <td align="center" width="220px">
+      <a href="https://github.com/JoseLuisHD">
+        <img src="https://github.com/JoseLuisHD.png" width="90px;" alt="Jose Luis" style="border-radius:50%"/><br />
+        <sub><b>Jose Luis (JoseLuisHD)</b></sub>
+      </a><br />
+      <i>Senior Software Architect / Backend Expert</i>
+    </td>
+    <td align="center" width="220px">
       <a href="https://github.com/nexxii04">
-        <img src="https://github.com/nexxii04.png" width="100px;" alt="Buba" style="border-radius:50%"/><br />
+        <img src="https://github.com/nexxii04.png" width="90px;" alt="Buba" style="border-radius:50%"/><br />
         <sub><b>Buba (nexxii04)</b></sub>
       </a><br />
-      <i>Backend Architect / Full Stack Developer</i>
+      <i>Backend Developer / Full Stack</i>
     </td>
   </tr>
 </table>
